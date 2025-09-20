@@ -1,7 +1,7 @@
 # Hi there! This is Eisha.
 
 
-I'm a Data Engineer. I work on designing and implementing scalable cloud data pipelines and systems using Microsoft Fabric and Apache Spark. My focus is on enabling data-driven decisions and powering advanced analytics. I also explore agentic AI-enabled systems, preparing and transforming data into structured formats to support AI applications. I am certified as a DP-700 Microsoft Fabric Data Engineer Associate.
+I'm a Data Engineer. I work on designing and implementing scalable cloud data pipelines and systems using Microsoft Fabric and Apache Spark. My focus is on enabling data-driven decisions and powering advanced analytics. I also explore agentic AI-enabled systems, preparing and transforming data into structured formats to support AI applications. I am also certified as a DP-700 Microsoft Fabric Data Engineer Associate.
 
 With strong communication skills and a collaborative mindset, I enjoy solving complex data challenges that connect engineering with business outcomes.
 
@@ -38,8 +38,4 @@ With strong communication skills and a collaborative mindset, I enjoy solving co
 ## Connect with Me
 
 [LinkedIn](https://linkedin.com/in/eisha-shah/) 
-
----
-
-Created by Eisha Shah
 
